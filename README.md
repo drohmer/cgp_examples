@@ -2,6 +2,11 @@
 
 * [Examples Website](https://imagecomputing.net/cgp/documentation/07_examples/index.html)
 
+This repository describes a set of code examples for the [CGP Library](https://imagecomputing.net/cgp/).
+
+
+
+
 ## Download
 
 _Please don't use the Download function from github, you won't have the cgp library included._
