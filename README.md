@@ -1,8 +1,10 @@
 # CGP library example codes
 
+This repository describes a set of code examples for the [CGP Library](https://imagecomputing.net/cgp/).
+
 * [Examples Website](https://imagecomputing.net/cgp/documentation/07_examples/index.html)
 
-This repository describes a set of code examples for the [CGP Library](https://imagecomputing.net/cgp/).
+
 
 
 
