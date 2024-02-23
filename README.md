@@ -1,6 +1,6 @@
 # CGP library example codes
 
-* [Examples](https://imagecomputing.net/cgp/documentation/07_examples/index.html)
+* [Examples Website](https://imagecomputing.net/cgp/documentation/07_examples/index.html)
 
 ## Download
 
@@ -11,7 +11,7 @@ _Please don't use the Download function from github, you won't have the cgp libr
 
 ## Clone
 
-````
+```
 git clone --recurse-submodules https://github.com/drohmer/cgp_examples.git
 ```
 
