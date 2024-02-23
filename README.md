@@ -17,7 +17,7 @@ git clone --recurse-submodules https://github.com/drohmer/cgp_examples.git
 
 or 
 
-````
+```
 git clone https://github.com/drohmer/cgp_examples.git
 cd cgp_examples/
 git submodule init
