@@ -62,7 +62,7 @@ void multipass_structure::start_pass_2() {
 void multipass_structure::draw_pass_2(environment_generic_structure const& environment)
 {
 	glDisable(GL_DEPTH_TEST);
-	draw(quad_pass_2, environment, false);
+	draw(quad_pass_2, environment, 1, false);
 	glEnable(GL_DEPTH_TEST);
 }
 
@@ -78,7 +78,7 @@ void multipass_structure::start_pass_3() {
 void multipass_structure::draw_pass_3(environment_generic_structure const& environment)
 {
 	glDisable(GL_DEPTH_TEST);
-	draw(quad_pass_3, environment, false);
+	draw(quad_pass_3, environment, 1, false);
 	glEnable(GL_DEPTH_TEST);
 }
 
