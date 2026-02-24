@@ -1,0 +1,48 @@
+# Build directories
+build/
+build-*/
+out/
+cmake-build-*/
+.cmake/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+CMakeUserPresets.json
+
+# Compiled binaries
+*.o
+*.exe
+*.out
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Emscripten output
+*.bc
+*.wasm
+*.js.mem
+emscripten_output/
+
+# Generated assets / temp
+*.log
